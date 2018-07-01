@@ -61,5 +61,13 @@
     "end_date": "2018-09-05",
     "location": "San Jose, Calfornia, USA",
     "site_url": "https://www.tryswift.co/events/2018/sanjose/"
+  },
+  {
+    "name": "try! Swift Tokyo",
+    "start_date": "2018-03-01",
+    "end_date": "2018-03-03",
+    "location": "Tokyo, Japan",
+    "site_url": "https://www.tryswift.co/events/2018/tokyo/en/",
+    "languages": "English and Japanese"
   }
 ]
