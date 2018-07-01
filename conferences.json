@@ -1,0 +1,65 @@
+[
+  {
+    "name": "WWDC",
+    "start_date": "2018-06-04",
+    "end_date": "2018-06-08",
+    "location": "San Jose, Calfornia",
+    "site_url": "https://developer.apple.com/wwdc/"
+  },
+  {
+    "name": "AltConf",
+    "start_date": "2018-06-04",
+    "end_date": "2018-06-07",
+    "location": "San Jose, Calfornia, USA",
+    "site_url": "http://altconf.com/"
+  },
+  {
+    "name": "NextDoor",
+    "start_date": "2018-06-04",
+    "end_date": "2018-06-07",
+    "location": "San Jose, Calfornia, USA",
+    "site_url": "http://altconf.com/"
+  },
+  {
+    "name": "try! Swift San Jose",
+    "start_date": "2018-06-08",
+    "end_date": "2018-06-08",
+    "location": "San Jose, Calfornia, USA",
+    "site_url": "https://www.tryswift.co/events/2018/sanjose/"
+  },
+  {
+    "name": "Swift Island",
+    "start_date": "2018-07-04",
+    "end_date": "2018-07-05",
+    "location": "Texel, Netherlands",
+    "site_url": "https://swiftisland.nl/"
+  },
+  {
+    "name": "FrenchKit",
+    "start_date": "2018-09-20",
+    "end_date": "2018-09-21",
+    "location": "Paris, France",
+    "site_url": "https://frenchkit.fr/"
+  },
+  {
+    "name": "360 iDev",
+    "start_date": "2018-08-26",
+    "end_date": "2018-08-29",
+    "location": "Denver, Colorado, USA",
+    "site_url": "https://frenchkit.fr/"
+  },
+  {
+    "name": "RWDevCon",
+    "start_date": "2018-04-05",
+    "end_date": "2018-04-07",
+    "location": "Alexandria, Virginia, USA",
+    "site_url": "https://www.rwdevcon.com/"
+  },
+  {
+    "name": "try! Swift New York",
+    "start_date": "2018-09-04",
+    "end_date": "2018-09-05",
+    "location": "San Jose, Calfornia, USA",
+    "site_url": "https://www.tryswift.co/events/2018/sanjose/"
+  }
+]
