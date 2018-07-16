@@ -463,7 +463,7 @@
             "title": "DazeEnd",
             "author": "Charles Perry",
             "site_url": "https://dazeend.org/",
-            "feed_url": "https://dazeend.org/feed/",
+            "feed_url": "https://dazeend.org/feed/?cat=-12",
             "twitter_url": "https://twitter.com/dazeend"
           },
           {
@@ -991,6 +991,13 @@
             "site_url": "https://www.objective-see.com/blog.html",
             "feed_url": "https://objective-see.com/rss.xml",
             "twitter_url": "https://twitter.com/objective_see"
+          },
+          {
+            "title": "Objective Tidbits",
+            "author": "Ilter Cengiz",
+            "site_url": "https://objectivetidbits.com",
+            "feed_url": "https://objectivetidbits.com/feed/",
+            "twitter_url": "https://twitter.com/objtidbits"
           },
           {
             "title": "Ole Begemann's Blog",
