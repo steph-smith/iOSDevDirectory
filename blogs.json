@@ -15,16 +15,22 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
-            "title": "Machine Learning Journal",
+            "title": "Design News",
             "author": "Apple",
-            "site_url": "https://machinelearning.apple.com/",
-            "feed_url": "https://machinelearning.apple.com/feed.xml"
+            "site_url": "https://developer.apple.com/design/whats-new/",
+            "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
           },
           {
             "title": "Official Swift Blog",
             "author": "Apple",
             "site_url": "https://developer.apple.com/swift/blog/",
             "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+          },
+          {
+            "title": "Machine Learning Journal",
+            "author": "Apple",
+            "site_url": "https://machinelearning.apple.com/",
+            "feed_url": "https://machinelearning.apple.com/feed.xml"
           }
         ]
       },
@@ -851,14 +857,6 @@
             "site_url": "https://maniacdev.com",
             "feed_url": "http://feeds.feedburner.com/maniacdev",
             "twitter_url": "https://twitter.com/maniacdev"
-          },
-          {
-            "title": "Manton Reece's Blog",
-            "author": "Manton Reece",
-            "site_url": "https://manton.org/",
-            "feed_url": "https://manton.org/essays.xml",
-            "twitter_url": "https://twitter.com/manton2",
-            "microblog_url": "https://micro.blog/manton"
           },
           {
             "title": "Marc Palmer's Blog",
