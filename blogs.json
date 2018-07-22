@@ -438,6 +438,13 @@
             "twitter_url": "https://twitter.com/ddribin"
           },
           {
+            "title": "Dave Nott's Blog",
+            "author": "Dave Nott",
+            "site_url": "https://www.davenott.co.uk/",
+            "feed_url": "https://www.davenott.co.uk/feed/",
+            "twitter_url": "https://twitter.com/_davenott"
+          },
+          {
             "title": "Dave Verwer’s Blog",
             "author": "Dave Verwer",
             "site_url": "https://daveverwer.com/",
@@ -661,6 +668,13 @@
             "feed_url": "http://inessential.com/xml/rss.xml",
             "twitter_url": "https://twitter.com/brentsimmons",
             "microblog_url": "https://micro.blog/brentsimmons"
+          },
+          {
+            "title": "iOS Dev Recipes",
+            "author": "Dave Lyon",
+            "site_url": "https://iosdev.recipes/",
+            "feed_url": "https://iosdev.recipes/rss.xml",
+            "twitter_url": "https://twitter.com/iosdevrecipes"
           },
           {
             "title": "iOS Dev Tools",
@@ -1742,6 +1756,13 @@
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
+            "title": "Instabug Blog",
+            "author": "Instabug Team",
+            "site_url": "https://blog.instabug.com",
+            "feed_url": "https://blog.instabug.com/feed/",
+            "twitter_url": "https://twitter.com/instabug"
+          },
+          {
             "title": "Kitefaster's iOS Development Blog",
             "author": "Kitefaster",
             "site_url": "https://kitefaster.com/category/ios-development/",
@@ -2510,6 +2531,13 @@
             "site_url": "https://medium.com/nsistanbul",
             "feed_url": "https://medium.com/feed/nsistanbul",
             "twitter_url": "https://twitter.com/NS_Istanbul"
+          },
+          {
+             "title": "WHOKNOWS Blog",
+             "author": "WHOKNOWS Community",
+             "site_url": "https://medium.com/whoknows-swift",
+             "feed_url": "https://medium.com/feed/whoknows-swift",
+             "twitter_url": "https://twitter.com/whoknowsswift"
           }
         ]
       }
