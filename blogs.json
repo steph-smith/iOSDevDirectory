@@ -705,6 +705,13 @@
             "twitter_url": "https://twitter.com/jaredsinclair"
           },
           {
+            "title": "Jared Sorge's Blog",
+            "author": "Jared Sorge",
+            "site_url": "https://jsorge.net/",
+            "feed_url": "https://jsorge.net/rss",
+            "twitter_url": "https://twitter.com/jsorge"
+          },
+          {
             "title": "Javier Soto's Blog",
             "author": "Javier Soto",
             "site_url": "http://javisoto.tumblr.com/",
@@ -1097,9 +1104,9 @@
           },
           {
             "title": "Ray Wenderlich",
-            "author": "Ray Wenderlich and friends",
+            "author": "Ray Wenderlich and Team",
             "site_url": "https://www.raywenderlich.com",
-            "feed_url": "https://www.raywenderlich.com/feed",
+            "feed_url": "https://www.raywenderlich.com/ios/feed.rss",
             "twitter_url": "https://twitter.com/rwenderlich"
           },
           {
@@ -1372,6 +1379,13 @@
             "site_url": "http://blog.benjamin-encz.de/",
             "feed_url": "http://blog.benjamin-encz.de/index.xml",
             "twitter_url": "https://twitter.com/benjaminencz"
+          },
+          {
+            "title": "Tim Oliver's Blog",
+            "author": "Tim Oliver",
+            "site_url": "http://timoliver.blog",
+            "feed_url": "https://timoliver.blog/feed/",
+            "twitter_url": "https://twitter.com/TimOliverAU"
           },
           {
             "title": "Timac",
@@ -1826,6 +1840,13 @@
             "twitter_url": "https://twitter.com/objcio"
           },
           {
+            "title": "Periphery Blog",
+            "author": "Periphery Team",
+            "site_url": "https://peripheryapp.com/blog/",
+            "feed_url": "https://www.peripheryapp.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/peripheryappcom"
+          },
+          {
             "title": "POSSIBLE Mobile Blog",
             "author": "POSSIBLE Mobile",
             "site_url": "https://possiblemobile.com/tag/ios/",
@@ -2146,6 +2167,13 @@
             "site_url": "https://swiftsparks.com/",
             "feed_url": "https://swiftsparks.com/feed.xml",
             "twitter_url": "https://twitter.com/speaktoalvin"
+          },
+          {
+            "title": "Indie iOS Focus Weekly",
+            "author": "Chris Beshore",
+            "site_url": "https://indieiosfocus.com/",
+            "feed_url": "https://indieiosfocus.com/issues.rss",
+            "twitter_url": "https://twitter.com/indieiosfocus"
           }
         ]
       },
