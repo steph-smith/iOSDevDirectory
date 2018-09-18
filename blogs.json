@@ -2092,6 +2092,13 @@
             "feed_url": "https://topologyeyewear.github.io/engineering-blog/atom",
             "twitter_url": "https://twitter.com/TopologyEng"
           },
+          { 
+            "title": "Toptal Engingeering Blog",
+            "author": "Toptal Experts",
+            "site_url": "https://www.toptal.com/developers/blog/tags/ios",
+            "feed_url": "https://www.toptal.com/blog.rss",
+            "twitter_url": "https://twitter.com/toptaldevs"
+          },
           {
             "title": "Two Ring Software",
             "author": "Two Ring Software Team",
